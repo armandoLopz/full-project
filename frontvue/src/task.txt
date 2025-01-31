@@ -1,0 +1,6 @@
+terminar registro
+linkear
+probar con la api
+add en el navigate
+
+empezar con la otras funcionalidades
